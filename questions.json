@@ -1,0 +1,231 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Where did the tiny frog live?",
+    "options": [
+      "In a tree",
+      "In a house",
+      "Near a pond",
+      "In the jungle"
+    ],
+    "correct": 2,
+    "explanation": "The story starts by telling us that the frog lived happily near a pond. This is where he played on the lily pads and met Ellie."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "How did the frog feel when he first saw the elephant?",
+    "options": [
+      "Angry",
+      "Surprised",
+      "Tired",
+      "Sad"
+    ],
+    "correct": 1,
+    "explanation": "The passage says the frog was surprised when he saw the big elephant walking toward the water."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What did the frog and the elephant do after they became friends?",
+    "options": [
+      "They argued every day.",
+      "They played together every day.",
+      "They stayed away from each other.",
+      "They didn’t talk anymore."
+    ],
+    "correct": 1,
+    "explanation": "The story says that the frog and Ellie became best friends and played together every day, having fun and going on adventures."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Bravely",
+      "Brevely",
+      "Bravily"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is “B-R-A-V-E-L-Y.” It means doing something even when you are scared, but still being strong and not giving up."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Look at this image and choose the correct word: <br><img src='1.png' width='150px'/>",
+    "options": [
+      "Sad",
+      "Happy",
+      "Angry"
+    ],
+    "correct": 2,
+    "explanation": "The picture displays the emotion of an angry boy. It means feeling very upset or mad about something."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "In 'The cat sleeps quietly,' which word is the adverb?",
+    "options": [
+      "The",
+      "Cat",
+      "Sleeps",
+      "Quietly"
+    ],
+    "correct": 3,
+    "explanation": "\"Quietly\" is the adverb in this sentence. It tells us how the cat sleeps, describing the action (sleeping) in more detail."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Which word in 'She sings beautifully' is the action verb?",
+    "options": [
+      "She",
+      "Sings",
+      "Beautifully"
+    ],
+    "correct": 1,
+    "explanation": "\"Sings\" is the action verb in this sentence. It tells us what the person is doing - the action they're performing."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "In 'The boy runs quickly,' which word describes how the action is done?",
+    "options": [
+      "The",
+      "Boy",
+      "Runs",
+      "Quickly"
+    ],
+    "correct": 3,
+    "explanation": "\"Quickly\" is the adverb that describes how the boy runs. It gives us more information about the action (running)."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Which word in 'He laughs happily' is the adverb?",
+    "options": [
+      "He",
+      "Laughs",
+      "Happily"
+    ],
+    "correct": 2,
+    "explanation": "\"Happily\" is the adverb in this sentence. It tells us how he laughs, describing the manner of the action."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "In 'The bird flies high,' which word is the adverb?",
+    "options": [
+      "The",
+      "Bird",
+      "Flies",
+      "High"
+    ],
+    "correct": 3,
+    "explanation": "\"High\" is the adverb in this sentence. It tells us where the bird flies, describing the action of flying."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which word in 'She dances gracefully' is the action verb?",
+    "options": [
+      "She",
+      "Dances",
+      "Gracefully"
+    ],
+    "correct": 1,
+    "explanation": "\"Dances\" is the action verb. It tells us what she is doing - the action she's performing."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "In 'The children play happily,' which word is the adverb?",
+    "options": [
+      "The",
+      "Children",
+      "Play",
+      "Happily"
+    ],
+    "correct": 3,
+    "explanation": "\"Happily\" is the adverb. It describes how the children play, giving us more information about the action."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which word in 'He speaks softly' tells us how the action is done?",
+    "options": [
+      "He",
+      "Speaks",
+      "Softly"
+    ],
+    "correct": 2,
+    "explanation": "\"Softly\" is the adverb that tells us how he speaks. It describes the manner of the action."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "In 'The turtle moves slowly,' which word is the adverb?",
+    "options": [
+      "Slowly",
+      "Turtle",
+      "Moves"
+    ],
+    "correct": 0,
+    "explanation": "\"Slowly\" is the adverb. It tells us how the turtle moves, describing the action in more detail."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Identify the correct pair in this sentence: 'She eats quickly':",
+    "options": [
+      "She - Noun",
+      "Eats - Adverb",
+      "Quickly - Adverb"
+    ],
+    "correct": 2,
+    "explanation": "\"She\" is a pronoun, \"Eats\" is a verb, and \"Quickly\" is an adverb."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "In 'The baby crawls carefully,' which word describes how the action is done?",
+    "options": [
+      "Carefully",
+      "Baby",
+      "Crawls"
+    ],
+    "correct": 0,
+    "explanation": "\"Carefully\" is the adverb that describes how the baby crawls. It gives us more information about the action."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which word in 'He writes neatly' is the adverb?",
+    "options": [
+      "He",
+      "Writes",
+      "Neatly"
+    ],
+    "correct": 2,
+    "explanation": "\"Neatly\" is the adverb in this sentence. It tells us how he writes, describing the manner of the action."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "In 'The dog barks loudly,' which word is the action verb?",
+    "options": [
+      "The",
+      "Dog",
+      "Barks",
+      "Loudly"
+    ],
+    "correct": 2,
+    "explanation": "\"Barks\" is the action verb. It tells us what the dog is doing - the action it's performing."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which word in 'She smiles brightly' tells us how the action is done?",
+    "options": [
+      "She",
+      "Smiles",
+      "Brightly"
+    ],
+    "correct": 2,
+    "explanation": "\"Brightly\" is the adverb that tells us how she smiles. It describes the manner of the action."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "In 'The car moves fast,' which word is the adverb?",
+    "options": [
+      "The",
+      "Car",
+      "Moves",
+      "Fast"
+    ],
+    "correct": 3,
+    "explanation": "\"Fast\" is the adverb in this sentence. It tells us how the car moves, describing the action in more detail."
+  }
+]
